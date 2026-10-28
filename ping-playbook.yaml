@@ -1,0 +1,7 @@
+- hosts: Home Servers
+  name: Check connectivity
+
+  tasks:
+    - name: Ping
+      ping:
+
