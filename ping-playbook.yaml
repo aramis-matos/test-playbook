@@ -1,4 +1,4 @@
-- hosts: Home Servers
+- hosts: all
   name: Check connectivity
 
   tasks:
